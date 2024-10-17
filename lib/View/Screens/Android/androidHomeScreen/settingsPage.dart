@@ -14,6 +14,7 @@ class _SettingsPageState extends State<SettingsPage> {
   @override
   Widget build(BuildContext context) {
     return Column(
+      // mainAxisAlignment: MainAxisAlignment.center,
       children: [
         CircleAvatar(
           radius: 60,
